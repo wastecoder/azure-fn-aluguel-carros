@@ -1,0 +1,12 @@
+# Ignora dependências instaladas
+node_modules/
+
+# Ignora variáveis de ambiente
+.env
+
+# Outros arquivos comuns a ignorar
+.DS_Store
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
