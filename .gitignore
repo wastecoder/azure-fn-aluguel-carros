@@ -1,0 +1,15 @@
+# Ignorar qualquer pasta .vs/ em qualquer lugar do repositório
+.vs/
+**/.vs/
+
+# Arquivos de ambiente (caso existam)
+*.env
+
+# Logs em qualquer lugar
+*.log
+
+# node_modules para projetos Node.js (ex: rent-a-car)
+**/node_modules/
+
+# Pasta de dependências do .NET global (caso alguma esteja fora dos subprojetos)
+packages/
